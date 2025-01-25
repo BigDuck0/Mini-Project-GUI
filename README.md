@@ -14,6 +14,7 @@
 ## หน้าในการทำ Bubble Sort 
 โดยจะมีให้ใส่เลขทั้งหมด 4 ช่องเเละมีปุ่ม Work process ในการอธิบายการทำงานของ Bubble Sort ,ปุ่ม Compute ในการทำงาน
 เเละปุ่ม Cancel ในการเคลียข้อมูลที่ใส่ลงไป
+
 ![My Project Screenshot](Success/Success-Bubble-Sort.png)
 
 ## หน้าอธิบายหลักการทำงานของ Bubble Sort
